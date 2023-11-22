@@ -1,4 +1,4 @@
 <?php
      echo "File defined";
-      echo "This code writed by gulshan";
+      echo "This code writed by gulshan.";
 ?>
